@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+body{
+  background-color: aliceblue;
+}
+
+.header{
+  background-color: antiquewhite;
+}
+
+.searchbar{
+  background-color: lightgoldenrodyellow;
+  
+}
+
+.homepage{
+  background-color: aquamarine;
+}
+
+.employeepage{
+  background-color:  aquamarine;
+}
+
+.employeelist{
+  background-color: azure;
+}
