@@ -3,7 +3,7 @@ import React from 'react'
 
 function EmployeeListItem(props) {
 
-const {image, name, position, officeNumber, mobileNumber, smsNumber, email} = props.emplist
+const {image, name, position} = props.emplist
 
   return (
     <div>

@@ -2,7 +2,7 @@
   text-align: center;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 body{
@@ -18,14 +18,37 @@ body{
   
 }
 
-.homepage{
-  background-color: aquamarine;
-}
 
-.employeepage{
-  background-color:  aquamarine;
-}
-
-.employeelist{
+/* .employeelist{
   background-color: azure;
+} */
+
+.officeNum{
+  background-color: beige;
+  border: 1px solid black;
+}
+
+.smsNum{
+  background-color: beige;
+  border: 1px solid black;
+}
+
+.mobileNum{
+  background-color: beige;
+  border: 1px solid black;
+}
+
+.email{
+  background-color: beige;
+  border: 1px solid black;
+}
+
+.employeeListItem{
+  background-color: beige;
+  border: 1px solid black;
+}
+
+.name{
+  background-color: beige;
+  border: 1px solid black;
 }
